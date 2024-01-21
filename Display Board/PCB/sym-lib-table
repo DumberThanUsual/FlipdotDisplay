@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FlipDots")(type "KiCad")(uri "${KIPRJMOD}/FlipDots.kicad_sym")(options "")(descr ""))
+)

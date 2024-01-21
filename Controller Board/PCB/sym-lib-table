@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Nav Switch")(type "KiCad")(uri "${KIPRJMOD}/TS12-74-60-BK-250-SMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "USB_4145")(type "KiCad")(uri "${KIPRJMOD}/USB_4145.kicad_sym")(options "")(descr ""))
+)
